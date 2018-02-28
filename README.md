@@ -114,7 +114,7 @@ edge cases.
 
 Clone this repository. Add your API code to the `src` directory and provide a brief `README.md` describing how to build and run your code. 
 
-Once you are finished, compress the repository and send it to `jasonf@advmicrogrid.com`.
+Once you are finished, compress the repository into a zip file and send it to `jasonf@advmicrogrid.com`.
 
 
 ### Review
