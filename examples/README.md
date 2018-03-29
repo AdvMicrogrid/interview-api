@@ -58,8 +58,8 @@
       },
       {
         "periodName": "Play",
-        "fromDayOfWeek": 4,
-        "toDayOfWeek": 0,
+        "fromDayOfWeek": 5,
+        "toDayOfWeek": 6,
         "fromHour": 0,
         "toHour": 0,
         "fromMinute": 0,
